@@ -4,8 +4,9 @@
 
 ![IFRN Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Instituto_Federal_do_Rio_Grande_do_Norte_-_Marca_Vertical_2015.svg/50px-Instituto_Federal_do_Rio_Grande_do_Norte_-_Marca_Vertical_2015.svg.png)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/leonardolmai/)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MoisesMonter)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/leonardolmai/) José Leonardo
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MoisesMonter) Moisés Monteiro
 Nesta atividade, vamos explorar o padrão de projeto Observer utilizando o Python 3.11.4 e o pip 23.1.2.
 
 ##UML 
@@ -30,9 +31,24 @@ Agora, vamos instalar o Pylint, que é uma ferramenta de análise de código par
 pip install pylint
 pip install graphviz
 ```
+
+| Framework | Version | More Depencens |
+| ------ | ------ | ------ | 
+| graphviz | 0.20.1 | https://graphviz.org/download/|
+| pylint | 2.17.5 | |
+
+```markdown
+ao terminar as duas instalações acesse **https://graphviz.org/download/** para completar instalação de **graphviz** em sua maquina
+
+```
+
 ### Gerando Diagramas UML com Pyreverse
 
 Para gerar diagramas UML usando o Pyreverse, primeiro, certifique-se de que o Graphviz esteja instalado corretamente em seu sistema. Em seguida, vá para o diretório do seu projeto e execute o seguinte comando para gerar o arquivo .dot:
+| Framework | Version | More Dependences |
+| ------ | ------ | ------ | 
+| graphviz | 0.20.1 | https://www.graphviz.org/download/ |
+| pylint | 2.17.5 | |
 
 ```markdown
 O Pyreverse irá analisar seu código Python e gerar um arquivo .dot com o diagrama UML correspondente.
