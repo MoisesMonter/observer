@@ -1,12 +1,9 @@
-
-
-
-
 # Observer
 
 ## Atividade de Padrões de Projeto
 
-![IFRN Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Instituto_Federal_do_Rio_Grande_do_Norte_-_Marca_Ve
+![IFRN Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Instituto_Federal_do_Rio_Grande_do_Norte_-_Marca_Vertical_2015.svg/50px-Instituto_Federal_do_Rio_Grande_do_Norte_-_Marca_Vertical_2015.svg.png)
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/leonardolmai/)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MoisesMonter)
 Nesta atividade, vamos explorar o padrão de projeto Observer utilizando o Python 3.11.4 e o pip 23.1.2.
