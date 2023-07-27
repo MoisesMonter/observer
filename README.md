@@ -61,7 +61,7 @@ pip install pylint
 pip install graphviz
 ```
 
-| Framework | Version | More Depencens |
+| Framework | Version | More Dependencens |
 | ------ | ------ | ------ | 
 | graphviz | 0.20.1 | https://graphviz.org/download/|
 | pylint | 2.17.5 | |
