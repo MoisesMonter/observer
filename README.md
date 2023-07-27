@@ -54,6 +54,15 @@ Para gerar diagramas UML usando o Pyreverse, primeiro, certifique-se de que o Gr
 ```markdown
 O Pyreverse irá analisar seu código Python e gerar um arquivo .dot com o diagrama UML correspondente.
 ```
+
+## Criando arquivo .dot
+
+Com pylint instalado Use o seguinte comando para gerar o arquivo .dot com o diagrama UML do seu código
+
+```markdown
+pyreverse seu_codigo.py
+```
+
 ### Convertendo .dot para PNG e PDF
 
 Para converter o arquivo .dot gerado pelo Pyreverse em uma imagem PNG ou PDF, você pode usar o Graphviz. Execute o seguinte comando para converter para PNG:
