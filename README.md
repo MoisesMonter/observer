@@ -61,9 +61,9 @@ pip install pylint
 pip install graphviz
 ```
 
-| Framework | Version | More Dependencens |
+| Framework | Version | More Dependences |
 | ------ | ------ | ------ | 
-| graphviz | 0.20.1 | https://graphviz.org/download/|
+| graphviz | 0.20.1 | https://www.graphviz.org/download/ |
 | pylint | 2.17.5 | |
 
 ```markdown
@@ -74,10 +74,7 @@ ao terminar as duas instalações acesse https://graphviz.org/download/ para com
 ### Gerando Diagramas UML com Pyreverse
 
 Para gerar diagramas UML usando o Pyreverse, primeiro, certifique-se de que o Graphviz esteja instalado corretamente em seu sistema. Em seguida, vá para o diretório do seu projeto e execute o seguinte comando para gerar o arquivo .dot:
-| Framework | Version | More Dependences |
-| ------ | ------ | ------ | 
-| graphviz | 0.20.1 | https://www.graphviz.org/download/ |
-| pylint | 2.17.5 | |
+
 
 Através do Pylint utilizaremos o Pyreverse...
 
