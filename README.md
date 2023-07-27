@@ -1,4 +1,4 @@
-# Observer ![IFRN Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Instituto_Federal_do_Rio_Grande_do_Norte_-_Marca_Vertical_2015.svg/50px-Instituto_Federal_do_Rio_Grande_do_Norte_-_Marca_Vertical_2015.svg.png)
+# Observer ![IFRN Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Instituto_Federal_do_Rio_Grande_do_Norte_-_Marca_Vertical_2015.svg/25px-Instituto_Federal_do_Rio_Grande_do_Norte_-_Marca_Vertical_2015.svg.png)
 
 
 ## Atividade de Padrões de Projeto
