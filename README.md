@@ -12,8 +12,10 @@
 Nesta atividade, vamos explorar o padrão de projeto Observer utilizando o Python 3.11.4 e o pip 23.1.2.
 
 ##UML 
-![Visualização do PDF](UML.pdf)
-[UML OBSERVER](UML.pdf)
+
+![Visualização do PDF](UML.png)
+
+[UML OBSERVER](UML.png)
 
 
 ### Instalação
