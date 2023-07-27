@@ -51,8 +51,10 @@ Para gerar diagramas UML usando o Pyreverse, primeiro, certifique-se de que o Gr
 | graphviz | 0.20.1 | https://www.graphviz.org/download/ |
 | pylint | 2.17.5 | |
 
+Através do Pylint utilizaremos o Pyreverse...
+
 ```markdown
-O Pyreverse irá analisar seu código Python e gerar um arquivo .dot com o diagrama UML correspondente.
+Pyreverse faz parte do Pylint e é uma ferramenta que permite gerar diagramas UML a partir do código-fonte Python. Ele analisa o código e produz arquivos .dot contendo os diagramas de classes e/ou pacotes, fornecendo uma representação visual da estrutura do código.
 ```
 
 ## Criando arquivo .dot
