@@ -57,10 +57,10 @@ O Pyreverse irá analisar seu código Python e gerar um arquivo .dot com o diagr
 
 ## Criando arquivo .dot
 
-Com pylint instalado Use o seguinte comando para gerar o arquivo .dot com o diagrama UML do seu código
+Com pylint instalado Use o seguinte comando para gerar o arquivo .dot com o diagrama UML do no codigo observer.py
 
 ```markdown
-pyreverse seu_codigo.py
+pyreverse observer.py
 ```
 
 ### Convertendo .dot para PNG e PDF
