@@ -11,6 +11,13 @@
 Nesta atividade, vamos explorar o padrão de projeto Observer utilizando o Python 3.11.4 e o pip 23.1.2.
 
 ## UML 
+### Resumo
+Observer tem como padrão de projeto de software (comportamental), que permite em interações muitos-para-um entre objetos, onde quando haja modificação em um objeto também haja uma notificação em todos seus dependentes.
+
+
+Objeto de  Modificação - é chamado de sujeito/observado
+
+Objeto dependente - serão chamado de observadores e serão notificados
 
 ![Visualização do PDF](UML.png)
 
