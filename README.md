@@ -102,5 +102,5 @@ E o seguinte comando para converter para PDF:
 ```markdown
 dot -Tpdf classes.dot -o classes.pdf
 ```
-Lembre-se de substituir `classes.dot` pelo nome do arquivo .dot gerado pelo Pyreverse.
+Lembre-se de substituir `classes.dot` pelo nome do arquivo .dot gerado pelo Pyreverse caso seja necessário.
 
