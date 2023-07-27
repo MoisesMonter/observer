@@ -11,6 +11,9 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MoisesMonter)
 Nesta atividade, vamos explorar o padrão de projeto Observer utilizando o Python 3.11.4 e o pip 23.1.2.
 
+##UML 
+[UML OBSERVER](UML.pdf)
+
 
 ### Instalação
 
