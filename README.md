@@ -19,6 +19,8 @@ Antes de começarmos, verifique se você já tem o Python 3.11.4 instalado em se
 | ------ | ------ |
 | Pip | --v |
 | Python | --version |
+
+
 Agora, vamos instalar o Pylint, que é uma ferramenta de análise de código para o Python, e o Graphviz, que é usado para renderizar diagramas UML.
 
 ```markdown
