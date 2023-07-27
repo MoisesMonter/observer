@@ -39,7 +39,7 @@ pip install graphviz
 | pylint | 2.17.5 | |
 
 ```markdown
-ao terminar as duas instalações acesse **https://graphviz.org/download/** para completar instalação de **graphviz** em sua maquina
+ao terminar as duas instalações acesse https://graphviz.org/download/ para completar instalação de graphviz em sua maquina
 
 ```
 
